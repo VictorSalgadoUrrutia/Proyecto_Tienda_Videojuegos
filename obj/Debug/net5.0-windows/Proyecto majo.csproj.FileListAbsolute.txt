@@ -1,0 +1,22 @@
+C:\Users\soporte\source\repos\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Proyecto majo.exe
+C:\Users\soporte\source\repos\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Proyecto majo.deps.json
+C:\Users\soporte\source\repos\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Proyecto majo.runtimeconfig.json
+C:\Users\soporte\source\repos\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Proyecto majo.runtimeconfig.dev.json
+C:\Users\soporte\source\repos\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Proyecto majo.dll
+C:\Users\soporte\source\repos\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Proyecto majo.pdb
+C:\Users\soporte\source\repos\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\Proyecto majo.csproj.AssemblyReference.cache
+C:\Users\soporte\source\repos\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\soporte\source\repos\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\soporte\source\repos\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\Proyecto majo_MarkupCompile.cache
+C:\Users\soporte\source\repos\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\Proyecto majo_MarkupCompile.lref
+C:\Users\soporte\source\repos\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\soporte\source\repos\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\Proyecto majo.g.resources
+C:\Users\soporte\source\repos\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\Proyecto majo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soporte\source\repos\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\Proyecto majo.AssemblyInfoInputs.cache
+C:\Users\soporte\source\repos\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\Proyecto majo.AssemblyInfo.cs
+C:\Users\soporte\source\repos\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\Proyecto majo.csproj.CoreCompileInputs.cache
+C:\Users\soporte\source\repos\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\Proyecto majo.dll
+C:\Users\soporte\source\repos\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\refint\Proyecto majo.dll
+C:\Users\soporte\source\repos\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\Proyecto majo.pdb
+C:\Users\soporte\source\repos\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\Proyecto majo.genruntimeconfig.cache
+C:\Users\soporte\source\repos\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\ref\Proyecto majo.dll
