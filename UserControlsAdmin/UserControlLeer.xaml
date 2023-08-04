@@ -15,37 +15,34 @@
 
         <Label Grid.Column="1" FontSize="40" Content="Leer Datos Cliente" HorizontalAlignment="Center" Margin="0,40,0,0" VerticalAlignment="Top" FontFamily="Times New Roman"/>
 
-        <Label Grid.Column="1" FontSize="20" Content="IdCliente" Margin="0,96,123,0" VerticalAlignment="Top" FontFamily="Times New Roman" RenderTransformOrigin="0.061,0.628" HorizontalAlignment="Right" Width="102"/>
+        <Label Grid.Column="1" FontSize="20" Content="IdCliente" Margin="136,112,412,0" VerticalAlignment="Top" FontFamily="Times New Roman" RenderTransformOrigin="0.061,0.628"/>
         <TextBox x:Name="txtIdClienteLeer"
-                             FontSize="14"
-                             FontWeight="Medium"
-                             FontFamily="Montserrat"
-                             Background="Transparent"
-                             Foreground="Black"
-                             CaretBrush="LightGray"
-                             BorderBrush="DarkGray"
-                             BorderThickness="0,0,0,1"
-                             Height="17"
-                             Margin="0,170,0,0" VerticalAlignment="Top" RenderTransformOrigin="-3.89,-0.298" HorizontalAlignment="Center" Width="378" Grid.Column="1"
+                 FontSize="14"
+                 FontWeight="Medium"
+                 FontFamily="Montserrat"
+                 Background="#F0F0F0"
+                 Foreground="Black"
+                 CaretBrush="LightGray"
+                 BorderBrush="DarkGray"
+                 BorderThickness="0,0,0,1"
+                 Height="30"
+                 Margin="0,150,0,0" VerticalAlignment="Top" HorizontalAlignment="Center" Width="378" Grid.Column="1"
                  />
 
-
-        <Label Grid.Column="1" FontSize="20" Content="Nombre" Margin="0,198,136,0" VerticalAlignment="Top" FontFamily="Times New Roman" HorizontalAlignment="Right" Width="76"/>
+        <Label Grid.Column="1" FontSize="20" Content="Nombre" Margin="136,202,438,0" VerticalAlignment="Top" FontFamily="Times New Roman"/>
         <TextBox x:Name="txtNombreCLeer"
-                             FontSize="14"
-                             FontWeight="Medium"
-                             FontFamily="Montserrat"
-                             Background="Transparent"
-                             Foreground="Black"
-                             CaretBrush="LightGray"
-                             BorderBrush="DarkGray"
-                             BorderThickness="0,0,0,1"
-                             Height="17"
-                             Margin="149,251,123,0" VerticalAlignment="Top" RenderTransformOrigin="-3.89,-0.298" Grid.Column="1"
+                 FontSize="14"
+                 FontWeight="Medium"
+                 FontFamily="Montserrat"
+                 Background="#F0F0F0"
+                 Foreground="Black"
+                 CaretBrush="LightGray"
+                 BorderBrush="DarkGray"
+                 BorderThickness="0,0,0,1"
+                 Height="30"
+                 Margin="0,250,0,0" VerticalAlignment="Top" Grid.Column="1" HorizontalAlignment="Center" Width="378"
                  />
-        <Button x:Name="BtnLeer" Grid.Column="1" Content="Leer" HorizontalAlignment="Center" Margin="0,300,0,0" VerticalAlignment="Top" Height="45" Width="98" Click="BtnLeer_Click"/>
-
-
+        <Button x:Name="BtnLeer" Grid.Column="1" Content="Leer" HorizontalAlignment="Center" Margin="0,300,0,0" VerticalAlignment="Top" Height="45" Width="98" Click="BtnLeer_Click" Background="#00CED1" Foreground="White" FontSize="16" FontWeight="Bold"/>
 
     </Grid>
 </UserControl>
