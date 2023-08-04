@@ -1,0 +1,92 @@
+﻿<UserControl x:Class="Proyecto_majo.UserControlsAdmin.UserControlEliminarP"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Proyecto_majo.UserControlsAdmin"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+
+    <Grid Background="White">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <!-- Proporción para el Label de ID -->
+            <RowDefinition Height="1*"/>
+            <!-- Proporción para el Label de Nombre -->
+            <RowDefinition Height="1*"/>
+            <!-- Proporción para el Label de Precio -->
+            <RowDefinition Height="1*"/>
+            <!-- Proporción para el Label de Cantidad -->
+            <RowDefinition Height="1*"/>
+            <!-- Proporción para el Botón -->
+            <RowDefinition Height="2*"/>
+            <!-- Proporción para el DataGrid -->
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <!-- Ancho automático para el Label -->
+                <ColumnDefinition Width="*"/>
+                <!-- Ancho restante para el TextBox -->
+            </Grid.ColumnDefinitions>
+
+            <Label Grid.Column="0" Content="ID del Producto:" VerticalAlignment="Center" Margin="10" FontSize="16" />
+            <TextBox x:Name="txtIdProducto" Grid.Column="1" Margin="10"
+                     Background="Gray" BorderBrush="Transparent" Foreground="White" FontSize="16" />
+        </Grid>
+
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <!-- Ancho automático para el Label -->
+                <ColumnDefinition Width="*"/>
+                <!-- Ancho restante para el TextBox -->
+            </Grid.ColumnDefinitions>
+
+            <Label Grid.Column="0" Content="Nombre del Producto:" VerticalAlignment="Center" Margin="10" FontSize="16" />
+            <TextBox x:Name="txtNombreJuegoP" Grid.Column="1" Margin="10"
+                     Background="Gray" BorderBrush="Transparent" Foreground="White" FontSize="16" />
+        </Grid>
+
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <!-- Ancho automático para el Label -->
+                <ColumnDefinition Width="*"/>
+                <!-- Ancho restante para el TextBox -->
+            </Grid.ColumnDefinitions>
+
+            <Label Grid.Column="0" Content="Precio:" VerticalAlignment="Center" Margin="10" FontSize="16" />
+            <TextBox x:Name="txtPrecioP" Grid.Column="1" Margin="10"
+                     Background="Gray" BorderBrush="Transparent" Foreground="White" FontSize="16" />
+        </Grid>
+
+        <Grid Grid.Row="3">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <!-- Ancho automático para el Label -->
+                <ColumnDefinition Width="*"/>
+                <!-- Ancho restante para el TextBox -->
+            </Grid.ColumnDefinitions>
+
+            <Label Grid.Column="0" Content="Cantidad:" VerticalAlignment="Center" Margin="10" FontSize="16" />
+            <TextBox x:Name="txtCantidadP" Grid.Column="1" Margin="10"
+                     Background="Gray" BorderBrush="Transparent" Foreground="White" FontSize="16" />
+        </Grid>
+
+        <Button x:Name="BtnEliminarP" Grid.Row="4" Content="Eliminar" Margin="10"
+                Background="SteelBlue" Foreground="Black" FontSize="16" BorderBrush="Transparent"
+                Click="BtnActualizarP_Click" />
+
+        <DataGrid x:Name="ProductTable" Grid.Row="5" AutoGenerateColumns="False" CanUserAddRows="False" IsReadOnly="True" ColumnWidth="*" IsSynchronizedWithCurrentItem="True" 
+                  SelectionChanged="ProductTable_SelectionChanged" Background="#FF94ADF8" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Id" Binding="{Binding IdProducto}" />
+                <DataGridTextColumn Header="Producto" Binding="{Binding NombreProducto}" />
+                <DataGridTextColumn Header="Precio" Binding="{Binding Precio}" />
+                <DataGridTextColumn Header="Cantidad" Binding="{Binding Cantidad}" />
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</UserControl>

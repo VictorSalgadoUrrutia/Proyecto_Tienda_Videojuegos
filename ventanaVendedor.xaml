@@ -1,0 +1,53 @@
+﻿<Window x:Class="Proyecto_majo.ventanaVendedor"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Proyecto_majo"
+        mc:Ignorable="d"
+        Title="ventanaVendedor" Height="450" Width="800"
+        WindowStyle="None"
+        WindowStartupLocation="CenterScreen"
+        MouseDown="Window_MouseDown">
+
+    <Border CornerRadius="12">
+        <Border CornerRadius="10" BorderThickness="3" Opacity="0.85" HorizontalAlignment="Right" Width="800">
+            <!-- Resto del contenido de la ventana como lo tenías antes -->
+
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="253*"/>
+                    <ColumnDefinition Width="541*"/>
+                </Grid.ColumnDefinitions>
+                <!-- Aquí agregamos el menú lateral -->
+                <StackPanel Background="#FF94ADF8" Width="120" HorizontalAlignment="Left">
+                    <Label FontFamily="Times New Roman" FontSize="14">Menu de productos</Label>
+                    <Button x:Name="BtnAgregarP" Content="Agregar"  Margin="5" Click="BtnAgregarP_Click"/>
+                    <Button x:Name="BtnEditarP" Content="Ventas"  Margin="5" Click="BtnEditarP_Click"/>
+                    <Button x:Name="BtnActualizarP" Content="Actualizar"  Margin="5" Click="BtnActualizarP_Click"/>
+                    <Button x:Name="BtnEliminarP" Content="Eliminar"  Margin="5" Click="BtnEliminarP_Click"/>
+                    <Button x:Name="BtnProductosP" Content="Productos"  Margin="5" Click="BtnProductosP_Click"/>
+                    <Button x:Name="BtnSalir" Content="Salir"  Width="111" Click="BtnSalir_Click"/>
+
+                </StackPanel>
+
+                <!-- Resto del contenido de la ventana como lo tenías antes -->
+
+                <!--<Label FontSize="35" Foreground="White" Content="Lista de videojuegos" Height="100" Margin="3,0,96,98" VerticalAlignment="Bottom" FontFamily="Broadway" Grid.Column="1"/>
+                <DataGrid x:Name="ProductTable" AutoGenerateColumns="False" CanUserAddRows="False" IsReadOnly="True" ColumnWidth="*" IsSynchronizedWithCurrentItem="True" Margin="159,0,96,0" SelectionChanged="ProductTable_SelectionChanged" Height="372" VerticalAlignment="Center" Background="#FF94ADF8" Grid.ColumnSpan="2">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="Id" Binding="{Binding IdProducto}" />
+                        <DataGridTextColumn Header="Producto" Binding="{Binding NombreProducto}" />
+                        <DataGridTextColumn Header="Precio" Binding="{Binding Precio}" />
+                        <DataGridTextColumn Header="Cantidad" Binding="{Binding Cantidad}" />
+                    </DataGrid.Columns>
+                </DataGrid>-->
+                
+                
+                <Frame x:Name="mainFrame" Grid.Column="1"/>
+            </Grid>
+
+            
+        </Border>
+    </Border>
+</Window>

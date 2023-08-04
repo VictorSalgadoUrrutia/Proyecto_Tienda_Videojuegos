@@ -20,3 +20,223 @@ C:\Users\soporte\source\repos\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windo
 C:\Users\soporte\source\repos\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\Proyecto majo.pdb
 C:\Users\soporte\source\repos\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\Proyecto majo.genruntimeconfig.cache
 C:\Users\soporte\source\repos\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\ref\Proyecto majo.dll
+C:\Users\soporte\source\repos\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\soporte\source\repos\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\soporte\source\repos\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\soporte\source\repos\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\soporte\source\repos\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\soporte\source\repos\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\soporte\source\repos\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\soporte\source\repos\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\soporte\source\repos\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\soporte\source\repos\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\soporte\source\repos\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\soporte\source\repos\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\soporte\source\repos\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\soporte\source\repos\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\soporte\source\repos\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\soporte\source\repos\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\soporte\source\repos\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\soporte\source\repos\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\soporte\source\repos\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\soporte\source\repos\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\soporte\source\repos\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\soporte\source\repos\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Zstandard.Net.dll
+C:\Users\soporte\source\repos\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\MySql.EntityFrameworkCore.dll
+C:\Users\soporte\source\repos\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Renci.SshNet.dll
+C:\Users\soporte\source\repos\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\SshNet.Security.Cryptography.dll
+C:\Users\soporte\source\repos\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\Proyecto majo.csproj.CopyComplete
+C:\Users\soporte\source\repos\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\ventanaAdmin.g.cs
+C:\Users\soporte\source\repos\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\ventanaAdmin.baml
+C:\Users\soporte\source\repos\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\ventanaVendedor.g.cs
+C:\Users\soporte\source\repos\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\ventanaVendedor.baml
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Proyecto majo.exe
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Proyecto majo.deps.json
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Proyecto majo.runtimeconfig.json
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Proyecto majo.runtimeconfig.dev.json
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Proyecto majo.dll
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Proyecto majo.pdb
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Zstandard.Net.dll
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\MySql.EntityFrameworkCore.dll
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Renci.SshNet.dll
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\SshNet.Security.Cryptography.dll
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\Proyecto majo.csproj.AssemblyReference.cache
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\ventanaAdmin.g.cs
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\ventanaVendedor.g.cs
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\Proyecto majo_MarkupCompile.cache
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\Proyecto majo_MarkupCompile.lref
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\ventanaAdmin.baml
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\ventanaVendedor.baml
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\Proyecto majo.g.resources
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\Proyecto majo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\Proyecto majo.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\Proyecto majo.AssemblyInfo.cs
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\Proyecto majo.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\Proyecto majo.csproj.CopyComplete
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\Proyecto majo.dll
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\refint\Proyecto majo.dll
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\Proyecto majo.pdb
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\Proyecto majo.genruntimeconfig.cache
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\ref\Proyecto majo.dll
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\UserControlsAdmin\UserControlActualizar.g.cs
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\UserControlsAdmin\UserControlAgregar.g.cs
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\UserControlsAdmin\UserControlEliminar.g.cs
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\UserControlsAdmin\UserControlLeer.g.cs
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\UserControlsAdmin\UserControlActualizar.baml
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\UserControlsAdmin\UserControlAgregar.baml
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\UserControlsAdmin\UserControlEliminar.baml
+C:\Users\victo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\UserControlsAdmin\UserControlLeer.baml
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Proyecto majo.exe
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Proyecto majo.deps.json
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Proyecto majo.runtimeconfig.json
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Proyecto majo.runtimeconfig.dev.json
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Proyecto majo.dll
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Proyecto majo.pdb
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Zstandard.Net.dll
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\MySql.EntityFrameworkCore.dll
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Renci.SshNet.dll
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\SshNet.Security.Cryptography.dll
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\Proyecto majo.csproj.AssemblyReference.cache
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\UserControlsAdmin\UserControlActualizar.g.cs
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\UserControlsAdmin\UserControlAgregar.g.cs
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\UserControlsAdmin\UserControlEliminar.g.cs
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\UserControlsAdmin\UserControlLeer.g.cs
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\ventanaAdmin.g.cs
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\ventanaVendedor.g.cs
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\Proyecto majo_MarkupCompile.cache
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\Proyecto majo_MarkupCompile.lref
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\UserControlsAdmin\UserControlActualizar.baml
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\UserControlsAdmin\UserControlAgregar.baml
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\UserControlsAdmin\UserControlEliminar.baml
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\UserControlsAdmin\UserControlLeer.baml
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\ventanaAdmin.baml
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\ventanaVendedor.baml
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\Proyecto majo.g.resources
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\Proyecto majo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\Proyecto majo.AssemblyInfoInputs.cache
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\Proyecto majo.AssemblyInfo.cs
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\Proyecto majo.csproj.CoreCompileInputs.cache
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\Proyecto majo.csproj.CopyComplete
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\Proyecto majo.dll
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\refint\Proyecto majo.dll
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\Proyecto majo.pdb
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\Proyecto majo.genruntimeconfig.cache
+C:\Users\VictorSalgado\Desktop\Proyecto majo (1)\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\ref\Proyecto majo.dll
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Proyecto majo.exe
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Proyecto majo.deps.json
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Proyecto majo.runtimeconfig.json
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Proyecto majo.runtimeconfig.dev.json
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Proyecto majo.dll
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Proyecto majo.pdb
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Zstandard.Net.dll
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\MySql.EntityFrameworkCore.dll
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\Renci.SshNet.dll
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\bin\Debug\net5.0-windows\SshNet.Security.Cryptography.dll
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\Proyecto majo.csproj.AssemblyReference.cache
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\UserControlsAdmin\UserControlActualizar.g.cs
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\UserControlsAdmin\UserControlAgregar.g.cs
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\UserControlsAdmin\UserControlEliminar.g.cs
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\UserControlsAdmin\UserControlLeer.g.cs
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\ventanaAdmin.g.cs
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\ventanaVendedor.g.cs
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\Proyecto majo_MarkupCompile.cache
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\Proyecto majo_MarkupCompile.lref
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\UserControlsAdmin\UserControlActualizar.baml
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\UserControlsAdmin\UserControlAgregar.baml
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\UserControlsAdmin\UserControlEliminar.baml
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\UserControlsAdmin\UserControlLeer.baml
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\ventanaAdmin.baml
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\ventanaVendedor.baml
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\Proyecto majo.g.resources
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\Proyecto majo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\Proyecto majo.AssemblyInfoInputs.cache
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\Proyecto majo.AssemblyInfo.cs
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\Proyecto majo.csproj.CoreCompileInputs.cache
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\Proyecto majo.csproj.CopyComplete
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\Proyecto majo.dll
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\refint\Proyecto majo.dll
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\Proyecto majo.pdb
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\Proyecto majo.genruntimeconfig.cache
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\ref\Proyecto majo.dll
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\UserControlsAdmin\UserControlTablaProductos.g.cs
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\UserControlsAdmin\UserControlTablaProductos.baml
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\UserControlsAdmin\UserControlAgregarP.g.cs
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\UserControlsAdmin\UserControlAgregarP.baml
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\UserControlsAdmin\UserControlActualizarP.g.cs
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\UserControlsAdmin\UserControlActualizarP.baml
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\UserControlsAdmin\UserControlEliminarP.g.cs
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\UserControlsAdmin\UserControlEliminarP.baml
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\UserControlsAdmin\UserControlVentas.g.cs
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\UserControlsAdmin\UserControlVentas.baml

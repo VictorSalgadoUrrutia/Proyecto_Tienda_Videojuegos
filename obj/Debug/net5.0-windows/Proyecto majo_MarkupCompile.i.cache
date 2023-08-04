@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\soporte\source\repos\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\obj\Debug\net5.0-windows\
 Proyecto_majo
 none
 false
 TRACE;DEBUG;NET;NET5_0;NETCOREAPP
-C:\Users\soporte\source\repos\Proyecto majo\Proyecto majo\App.xaml
-11407045341
+C:\Users\VictorSalgado\Documents\Proyecto majo\Proyecto majo\Proyecto majo\App.xaml
+12-1399527961
 
-51518755849
-193-1891726104
-MainWindow.xaml;
+34413162824
+2161239588311
+MainWindow.xaml;UserControlsAdmin\UserControlActualizar.xaml;UserControlsAdmin\UserControlActualizarP.xaml;UserControlsAdmin\UserControlAgregar.xaml;UserControlsAdmin\UserControlAgregarP.xaml;UserControlsAdmin\UserControlEliminar.xaml;UserControlsAdmin\UserControlEliminarP.xaml;UserControlsAdmin\UserControlLeer.xaml;UserControlsAdmin\UserControlTablaProductos.xaml;UserControlsAdmin\UserControlVentas.xaml;ventanaAdmin.xaml;ventanaVendedor.xaml;
 
 False
 

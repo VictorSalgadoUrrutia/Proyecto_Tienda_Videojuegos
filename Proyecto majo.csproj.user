@@ -7,7 +7,75 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="UserControlsAdmin\UserControlActualizar.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControlsAdmin\UserControlActualizarP.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControlsAdmin\UserControlAgregar.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControlsAdmin\UserControlAgregarP.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControlsAdmin\UserControlEliminar.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControlsAdmin\UserControlEliminarP.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControlsAdmin\UserControlLeer.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControlsAdmin\UserControlTablaProductos.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControlsAdmin\UserControlVentas.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ventanaAdmin.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ventanaVendedor.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
     <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControlsAdmin\UserControlActualizar.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControlsAdmin\UserControlActualizarP.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControlsAdmin\UserControlAgregar.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControlsAdmin\UserControlAgregarP.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControlsAdmin\UserControlEliminar.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControlsAdmin\UserControlEliminarP.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControlsAdmin\UserControlLeer.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControlsAdmin\UserControlTablaProductos.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControlsAdmin\UserControlVentas.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ventanaAdmin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ventanaVendedor.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

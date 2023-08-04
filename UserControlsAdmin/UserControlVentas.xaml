@@ -1,0 +1,34 @@
+﻿<UserControl x:Class="Proyecto_majo.UserControlsAdmin.UserControlVentas"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Proyecto_majo.UserControlsAdmin"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <!-- Agrega los controles necesarios para la interfaz de compra -->
+        <Label Content="Detalles de la compra:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20"/>
+        <TextBox x:Name="txtDetalles" HorizontalAlignment="Left" VerticalAlignment="Top" Width="200" Margin="20,25"/>
+
+        <Label Content="Total de la compra:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20,60"/>
+        <TextBox x:Name="txtTotalCompra" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="20,80,0,0"/>
+
+        <Label Content="Cantidad de productos:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20,110"/>
+        <TextBox x:Name="txtCantidadProductos" HorizontalAlignment="Left" VerticalAlignment="Top" Width="127" Margin="20,130,0,0"/>
+
+        <!-- Agrega los ComboBox para seleccionar vendedor, cliente y producto -->
+        <Label Content="Vendedor:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20,160"/>
+        <ComboBox x:Name="cmbVendedor" HorizontalAlignment="Left" VerticalAlignment="Top" Width="150" Margin="20,180" SelectionChanged="cmbVendedor_SelectionChanged"/>
+
+        <Label Content="Cliente:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="200,160"/>
+        <ComboBox x:Name="cmbCliente" HorizontalAlignment="Left" VerticalAlignment="Top" Width="150" Margin="200,180" SelectionChanged="cmbCliente_SelectionChanged"/>
+
+        <Label Content="Producto:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="380,160,0,0" Width="88"/>
+        <ComboBox x:Name="cmbProducto" HorizontalAlignment="Left" VerticalAlignment="Top" Width="123" Margin="380,180,0,0" SelectionChanged="cmbProducto_SelectionChanged"/>
+
+        <!-- Botón para realizar la compra -->
+        <Button x:Name="btnRealizarCompra" Content="Realizar Compra" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="20,220,0,0" Click="btnRealizarCompra_Click" Height="23"/>
+        <Label Content="Detalle de la compra:" VerticalAlignment="Top" Margin="20,2,658,0"/>
+    </Grid>
+</UserControl>
