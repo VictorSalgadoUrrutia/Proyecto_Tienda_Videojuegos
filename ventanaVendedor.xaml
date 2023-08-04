@@ -10,44 +10,46 @@
         WindowStartupLocation="CenterScreen"
         MouseDown="Window_MouseDown">
 
-    <Border CornerRadius="12">
-        <Border CornerRadius="10" BorderThickness="3" Opacity="0.85" HorizontalAlignment="Right" Width="800">
-            <!-- Resto del contenido de la ventana como lo tenías antes -->
-
+    <Border Background="White" CornerRadius="12">
+        <Border Background="#FF94ADF8" CornerRadius="10" BorderThickness="3" Opacity="0.85" HorizontalAlignment="Right" Width="800">
             <Grid>
                 <Grid.ColumnDefinitions>
-                    <ColumnDefinition Width="253*"/>
-                    <ColumnDefinition Width="541*"/>
+                    <ColumnDefinition Width="150"/>
+                    <ColumnDefinition Width="*"/>
                 </Grid.ColumnDefinitions>
-                <!-- Aquí agregamos el menú lateral -->
-                <StackPanel Background="#FF94ADF8" Width="120" HorizontalAlignment="Left">
-                    <Label FontFamily="Times New Roman" FontSize="14">Menu de productos</Label>
-                    <Button x:Name="BtnAgregarP" Content="Agregar"  Margin="5" Click="BtnAgregarP_Click"/>
-                    <Button x:Name="BtnEditarP" Content="Ventas"  Margin="5" Click="BtnEditarP_Click"/>
-                    <Button x:Name="BtnActualizarP" Content="Actualizar"  Margin="5" Click="BtnActualizarP_Click"/>
-                    <Button x:Name="BtnEliminarP" Content="Eliminar"  Margin="5" Click="BtnEliminarP_Click"/>
-                    <Button x:Name="BtnProductosP" Content="Productos"  Margin="5" Click="BtnProductosP_Click"/>
-                    <Button x:Name="BtnSalir" Content="Salir"  Width="111" Click="BtnSalir_Click"/>
 
+                <!-- Menú lateral -->
+                <StackPanel Background="#FF94ADF8" Width="150">
+                    <Label FontFamily="Arial" FontSize="20" HorizontalAlignment="Center" Margin="0,30,0,20">Menú de productos</Label>
+                    <Button x:Name="BtnAgregarP" Content="Agregar" Margin="10" Padding="10" HorizontalAlignment="Stretch" Click="BtnAgregarP_Click"/>
+                    <Button x:Name="BtnEditarP" Content="Ventas" Margin="10" Padding="10" HorizontalAlignment="Stretch" Click="BtnEditarP_Click"/>
+                    <Button x:Name="BtnActualizarP" Content="Actualizar" Margin="10" Padding="10" HorizontalAlignment="Stretch" Click="BtnActualizarP_Click"/>
+                    <Button x:Name="BtnEliminarP" Content="Eliminar" Margin="10" Padding="10" HorizontalAlignment="Stretch" Click="BtnEliminarP_Click"/>
+                    <Button x:Name="BtnProductosP" Content="Productos" Margin="10" Padding="10" HorizontalAlignment="Stretch" Click="BtnProductosP_Click"/>
+                    <Button x:Name="BtnSalir" Content="Salir" Margin="10" Padding="10" HorizontalAlignment="Stretch" Click="BtnSalir_Click"/>
                 </StackPanel>
 
-                <!-- Resto del contenido de la ventana como lo tenías antes -->
-
-                <!--<Label FontSize="35" Foreground="White" Content="Lista de videojuegos" Height="100" Margin="3,0,96,98" VerticalAlignment="Bottom" FontFamily="Broadway" Grid.Column="1"/>
-                <DataGrid x:Name="ProductTable" AutoGenerateColumns="False" CanUserAddRows="False" IsReadOnly="True" ColumnWidth="*" IsSynchronizedWithCurrentItem="True" Margin="159,0,96,0" SelectionChanged="ProductTable_SelectionChanged" Height="372" VerticalAlignment="Center" Background="#FF94ADF8" Grid.ColumnSpan="2">
-                    <DataGrid.Columns>
-                        <DataGridTextColumn Header="Id" Binding="{Binding IdProducto}" />
-                        <DataGridTextColumn Header="Producto" Binding="{Binding NombreProducto}" />
-                        <DataGridTextColumn Header="Precio" Binding="{Binding Precio}" />
-                        <DataGridTextColumn Header="Cantidad" Binding="{Binding Cantidad}" />
-                    </DataGrid.Columns>
-                </DataGrid>-->
-                
-                
-                <Frame x:Name="mainFrame" Grid.Column="1"/>
+                <!-- Contenido principal -->
+                <Border Grid.Column="1" Background="White" CornerRadius="10" Margin="30">
+                    <!-- Contenido principal de la ventana, como la etiqueta "Lista de videojuegos" y el DataGrid -->
+                    <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+                        <Frame x:Name="mainFrame" Grid.Column="1"/>
+                        <!--<DataGrid x:Name="ProductTable" AutoGenerateColumns="False" CanUserAddRows="False" IsReadOnly="True" ColumnWidth="*" IsSynchronizedWithCurrentItem="True" Background="#FF94ADF8" Width="527">
+                            <DataGrid.Columns>
+                                <DataGridTextColumn Header="Id" Binding="{Binding IdProducto}" />
+                                <DataGridTextColumn Header="Producto" Binding="{Binding NombreProducto}" />
+                                <DataGridTextColumn Header="Precio" Binding="{Binding Precio}" />
+                                <DataGridTextColumn Header="Cantidad" Binding="{Binding Cantidad}" />
+                            </DataGrid.Columns>
+                        </DataGrid>
+                        
+                        <Label FontSize="35" Foreground="White" Content="Lista de productos" Margin="0,0,0,20" FontFamily="Broadway"/>-->
+                   
+                    </StackPanel>
+                    
+                    
+                </Border>
             </Grid>
-
-            
         </Border>
     </Border>
 </Window>

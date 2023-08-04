@@ -42,16 +42,16 @@
             <ColumnDefinition Width="*"/>
         </Grid.ColumnDefinitions>
 
-        <Label Grid.Column="1" FontSize="40" Content="Actualizar Datos Cliente" HorizontalAlignment="Center" Margin="0,40,0,0" VerticalAlignment="Top" FontFamily="Times New Roman"/>
+        <Label Grid.Column="1" FontSize="40" Content="Actualizar Datos Cliente" HorizontalAlignment="Center" Margin="0,27,0,0" VerticalAlignment="Top" FontFamily="Times New Roman"/>
 
         <StackPanel Grid.Column="1" Margin="0,68,0,-28" HorizontalAlignment="Center" Width="610">
-            <Label FontSize="20" Content="ID"/>
+            <Label FontSize="20" Content="ID" Width="483"/>
             <TextBox x:Name="txtIdClienteActualizar" 
-                     Style="{StaticResource TextBoxStyle}"/>
+                     Style="{StaticResource TextBoxStyle}" Width="486"/>
 
-            <Label FontSize="20" Content="Nombre" Margin="0,20,0,0" />
+            <Label FontSize="20" Content="Nombre" Margin="0,20,0,0" Width="486" />
             <TextBox x:Name="txtNActualizar" 
-                     Style="{StaticResource TextBoxStyle}"/>
+                     Style="{StaticResource TextBoxStyle}" Width="491"/>
 
             <Button x:Name="BtnActualizar" Content="Actualizar" 
                     Style="{StaticResource ButtonStyle}" 
