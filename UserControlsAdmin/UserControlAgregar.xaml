@@ -6,35 +6,51 @@
              xmlns:local="clr-namespace:Proyecto_majo.UserControls"
              mc:Ignorable="d" 
              d:DesignHeight="450" d:DesignWidth="800">
+    <UserControl.Resources>
+        <!-- Definir un recurso compartido para el estilo del TextBox -->
+        <Style x:Key="TextBoxStyle" TargetType="TextBox">
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="FontWeight" Value="Medium"/>
+            <Setter Property="FontFamily" Value="Montserrat"/>
+            <Setter Property="Background" Value="White"/>
+            <Setter Property="Foreground" Value="Black"/>
+            <Setter Property="CaretBrush" Value="Black"/>
+            <Setter Property="BorderBrush" Value="DarkGray"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="Padding" Value="10"/>
+            <Setter Property="Height" Value="30"/>
+            <Setter Property="MinWidth" Value="150"/>
+        </Style>
+        <!-- Definir un recurso compartido para el estilo del Label -->
+        <Style x:Key="LabelStyle" TargetType="Label">
+            <Setter Property="FontSize" Value="18"/>
+            <Setter Property="FontFamily" Value="Arial"/>
+            <Setter Property="Margin" Value="0,10,0,0"/>
+        </Style>
+        <!-- Definir un recurso compartido para el estilo del Button -->
+        <Style x:Key="ButtonStyle" TargetType="Button">
+            <Setter Property="Background" Value="#00CED1"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontSize" Value="16"/>
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="Height" Value="45"/>
+            <Setter Property="Width" Value="98"/>
+            <Setter Property="Margin" Value="0,20,0,0"/>
+        </Style>
+    </UserControl.Resources>
+
     <Grid HorizontalAlignment="Right" Width="800">
-
-        <!-- Menú lateral -->
-        <!--<Grid.ColumnDefinitions>
-            <ColumnDefinition Width="150"/>
-            <ColumnDefinition Width="*"/>
-        </Grid.ColumnDefinitions>-->
-
 
         <Label Grid.Column="1" FontSize="40" Content="Agregar Datos Clientes" HorizontalAlignment="Center" Margin="0,40,0,0" VerticalAlignment="Top" FontFamily="Times New Roman"/>
 
+        <StackPanel Margin="260,128,260,0" VerticalAlignment="Top">
+            <Label FontSize="20" Content="Nombre" FontFamily="Arial" Style="{StaticResource LabelStyle}"/>
+            <TextBox x:Name="txtAgregar"
+                     Style="{StaticResource TextBoxStyle}"
+                     />
+        </StackPanel>
 
-        <Label FontSize="20" Content="Nombre" Margin="260,128,464,0" VerticalAlignment="Top" FontFamily="Times New Roman"/>
-
-        <TextBox x:Name="txtAgregar"
-                             FontSize="14"
-                             FontWeight="Medium"
-                             FontFamily="Montserrat"
-                             Background="Transparent"
-                             Foreground="Black"
-                             CaretBrush="LightGray"
-                             BorderBrush="DarkGray"
-                             BorderThickness="0,0,0,1"
-                             Height="17"
-                             Margin="260,190,260,0" VerticalAlignment="Top" RenderTransformOrigin="-3.89,-0.298"
-                 />
-        <Button x:Name="BtnAgregar" Grid.Column="1" Content="Agregar" HorizontalAlignment="Center" Margin="0,225,0,0" VerticalAlignment="Top" Height="45" Width="98" Click="BtnAgregar_Click"/>
-
-
-
+        <Button x:Name="BtnAgregar" Content="Agregar" Style="{StaticResource ButtonStyle}" VerticalAlignment="Top" Click="BtnAgregar_Click" Margin="0,225,0,0"/>
     </Grid>
 </UserControl>
